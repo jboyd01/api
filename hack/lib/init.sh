@@ -26,6 +26,7 @@ project/v1 \
 quota/v1 \
 route/v1 \
 security/v1 \
+servicecatalog/v1 \
 servicecertsigner/v1alpha1 \
 template/v1 \
 user/v1 \
